@@ -1,31 +1,31 @@
-{"ads":{
+{
+"ibackup":"https://github.com/Mexi23/GitInjector/raw/main/20240307_195532.png",
   
-  "ShowAds":true,
-  "ClickCount":1,
-   "ShowLoadingAds":true,
-  
-
-  
-  "openadyandex":"demo-appopenad-yandex",
-  "yandex_inter":"demo-interstitial-yandex",
-  "yandex_banner":"demo-banner-yandex",
-  "yandex_native":"demo-native-app-yandex",
-  "yandex_reward":"demo-rewarded-yandex",
-  
-  "MaxBanner": "7c217530b37da6db",
-  "MaxNative": "c6feb0531b2bb192",
-  "MaxInterstitial": "c9feceddbf0d8ec2",
-  "MaxReward":"934dec764ec5257a",
-  "Maxopen":"9f9e60545e946f33",
-  
-  "PriorityBanner":"max",
-  "PriorityNative":"yandex",
-  "PriorityReward":"max",
-  "PriorityOpen":"max",
-  "priorityInterstitial":"max"
- 
-
-  
-}
-
+  "images": [
+    {
+      "image": "https://ggstandoff.pro/public/storage/cases/XlgHKrUpvZFBkBev57IF1BrSC8jtaXPYOiN6EHkC.png",
+      "related_images": [
+      
+         "https://ggstandoff.pro/public/storage/cases/NGKifuVicdVtsGesNQsruqClLvcJQEVFjLMtTj6i.png",
+        "https://ggstandoff.pro/public/storage/cases/gtzjcM1pFWgwcA3bFBiswR1jguEiApTENw6r2bYV.png",
+        "https://ggstandoff.pro/public/storage/cases/vXn9lcCiB2lgMePsdKDv6XiPZhSCCqfsOCN2WmaM.png"
+      ]
+    },
+    {
+      "image": "https://ggstandoff.pro/public/storage/cases/g8Cnm2rVlsEeBB1j8tzBEeB8ykasaaTxuskFzpLf.png",
+      "related_images": [
+        "https://ggstandoff.pro/public/storage/cases/I3xmtODKXUxeMvOEQeQF1MJahk9QKFE46ocomUEs.png",
+        "https://ggstandoff.pro/public/storage/cases/aZZIHi9NiBV08YjSIajMZkd6AOk8qjhPEDbY1iKp.png",
+        "https://ggstandoff.pro/public/storage/cases/os94mGzklAERP8fNrHQUkKH3rY2oNyWE5Hob4ENh.png"
+      ]
+    },
+    {
+      "image": "https://ggstandoff.pro/public/storage/cases/16111532476f7166b7b438517761fb29ba36758ac2.png",
+      "related_images": [
+        "https://ggstandoff.pro/public/storage/cases/161115311410857e83f47c8b260a763fb4e8a5d8e5.png",
+        "https://ggstandoff.pro/public/storage/cases/1611152978a6cbcee619bc0f4dde6b8dd210d8dc4f.png",
+        "https://ggstandoff.pro/public/storage/cases/qoWsuXe5bXSi6z88X7dc6gJFi0ROUK5vWx5jMU6O.png"
+      ]
+    }
+  ]
 }
