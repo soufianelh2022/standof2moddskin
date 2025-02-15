@@ -3,6 +3,8 @@
   "ShowAds":false,
   "ClickCount":1,
    "ShowLoadingAds":true,
+
+"showpop":false,
   
 
   
